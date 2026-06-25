@@ -1,4 +1,4 @@
-import { createAiParse } from "./_ai-parse-core";
+import { createAiParse } from "./_ai-parse-core.js";
 
 type VercelRequest = {
   method?: string;

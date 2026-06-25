@@ -1,4 +1,4 @@
-import { createAiOutcomeReview } from "./_ai-outcome-core";
+import { createAiOutcomeReview } from "./_ai-outcome-core.js";
 
 type VercelRequest = {
   method?: string;
