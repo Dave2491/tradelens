@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "devCommand": "npm run dev -- --host 127.0.0.1",
+  "rewrites": [
+    { "source": "/monitor", "destination": "/index.html" }
+  ]
+}
